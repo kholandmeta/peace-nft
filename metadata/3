@@ -1,0 +1,11 @@
+{
+    "description" : "GLB File 3",
+    "image" : "https://github.com/kholandmeta/test-nft/blob/main/assets/3.glb",
+    "name" : "GLB-3",
+    "attributes": [
+        {
+            "trait_type": "test",
+            "value": 3
+        }
+    ]
+ }

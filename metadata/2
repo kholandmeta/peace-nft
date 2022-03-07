@@ -1,0 +1,11 @@
+{
+    "description" : "GLB File 2",
+    "image" : "https://github.com/kholandmeta/test-nft/blob/main/assets/2.glb",
+    "name" : "GLB-2",
+    "attributes": [
+        {
+            "trait_type": "test",
+            "value": 2
+        }
+    ]
+ }
