@@ -1,11 +1,13 @@
 {
-    "description" : "GLB File 3",
-    "image" : "https://bafybeicccmhgh6e5radtyfkpuvkf7zsbbdumc26vd5kdd2pkdhoaepuoie.ipfs.nftstorage.link/assets/3.glb",
-    "name" : "GLB-3",
+    "description": "Peace Maker 1. Both image and glb",
+    "external_url": "https://kho.land",
+    "image": "https://ipfs.io/ipfs/bafybeignrfeuueqf3ewh5rzeynvupr7ti34sslly4ifgzcm6ctbtuqpizq/images/1.png",
+    "name": "Peace Maker",
+    "animation_url": "https://bafybeidu4r2xcgowuwwozfm5ovuv7dqwlyzccnzi6by55eznyogsjfwtyu.ipfs.nftstorage.link/glb/1.glb",
     "attributes": [
         {
-            "trait_type": "test",
-            "value": 3
+            "trait_type": "Type",
+            "value": "Peace"
         }
     ]
- }
+}
