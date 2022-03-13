@@ -1,13 +1,7 @@
 {
-    "description": "Peace Maker 1. Both image and glb",
-    "external_url": "https://kho.land",
-    "image": "https://ipfs.io/ipfs/bafybeignrfeuueqf3ewh5rzeynvupr7ti34sslly4ifgzcm6ctbtuqpizq/images/1.png",
-    "name": "Peace Maker",
-    "animation_url": "https://bafybeidu4r2xcgowuwwozfm5ovuv7dqwlyzccnzi6by55eznyogsjfwtyu.ipfs.nftstorage.link/glb/1.glb",
-    "attributes": [
-        {
-            "trait_type": "Type",
-            "value": "Peace"
-        }
-    ]
+    "name": "Old Town of Kyiv - Peace Maker 2",
+    "description": "Ukraine's capital city of Kyiv standing on Dniepr river offers a vivid scenery of a modern cityscape alongside the cobblestone streets of the Old Town.",
+    "animation_url": "https://bafybeiegk6rinqnv6xn4idmmnsdgndljry5r7zct23lvgv55os6tznf52m.ipfs.nftstorage.link/glbs/2.glb",
+    "image": "https://bafybeie4z3xe2q2usvmhhq554zcmyzg2bzeauqvbkrd7gkcimvc6eactji.ipfs.nftstorage.link/images/2.jpg",
+    "external_url": "https://peace.kho.land/"
 }
